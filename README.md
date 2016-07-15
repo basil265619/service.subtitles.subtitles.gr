@@ -1,21 +1,14 @@
 ======================
-Subtitles.gr addon for Kodi
+subs4free addon for Kodi
 ======================
 
 About
 -----
-Search and download subtitles from subtitles.gr, xsubs.tv and subztv.gr
+Search and download subtitles from subs4series.com
 
-Kodi Addon for http://www.subtitles.gr/, http://xsubs.tv/ and http://subztv.gr/
+Kodi Addon for http://www.subs4series.com/
 
-This service is not published nor endorsed by subtitles.gr, xsubs.tv and subztv.gr
-
-
-Artwork
----------------------
-Artwork sourced from public domain:
-
-http://www.subtitles.gr/logo.jpg
+This service is not published nor endorsed by subs4series.com
 
 
 License
