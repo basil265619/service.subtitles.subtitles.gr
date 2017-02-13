@@ -13,7 +13,7 @@
 		<disclaimer lang="en">This service is only for Greek subtitles and not published nor endorsed by subtitles.gr, xsubs.tv and subztv.gr</disclaimer>
 		<disclaimer lang="el">Υπηρεσία μόνο ελληνικών υποτίτλων που δεν έχει δημοσιευθεί ούτε εγκριθεί από τα subtitles.gr, xsubs.tv και subztv.gr</disclaimer>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-		<source>https://github.com/lambda81/service.subtitles.subtitles.gr</source>
+		<source>https://github.com/ratmole/service.subtitles.subtitles.gr</source>
 		<website>http://www.subtitles.gr/</website>
 		<platform>all</platform>
 		<language>el</language>
