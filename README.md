@@ -1,3 +1,5 @@
+All credits to lambda81. This is a Copy.
+
 ======================
 Subtitles.gr addon for Kodi
 ======================
